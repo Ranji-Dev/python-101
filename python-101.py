@@ -163,19 +163,19 @@
 #a,b=b,a
 #print(a)
 
-a=20
-b=5.5
-c=3+2j
-d='Hello'
-l= [a,b,c,d]
-print(l)
-print(len(l))
-l.append(100)
-print(l)
-print(len(l))
-l.insert(2,['india',[25,[min,'apple']]])
-print(l)
-print(len(l))
-l.extend([1,2,3])
-print(l)
-print(len(l))
+# a=20
+# b=5.5
+# c=3+2j
+# d='Hello'
+# l= [a,b,c,d]
+# print(l)
+# print(len(l))
+# l.append(100)
+# print(l)
+# print(len(l))
+# l.insert(2,['india',[25,[min,'apple']]])
+# print(l)
+# print(len(l))
+# l.extend([1,2,3])
+# print(l)
+# print(len(l))
